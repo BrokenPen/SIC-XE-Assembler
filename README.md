@@ -8,10 +8,9 @@ Which done in 2016, sophomore class in Computer Science in NTCU, re-upload to gi
 - Use php5.6
 - php5.6 sic.php
 
-php5.6 sic.php
 
-- If Use php7
-
+## Dont
+- Use php7
 the result will become wrong-_-... funny
 
 
