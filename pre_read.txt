@@ -1,0 +1,16 @@
+how to demo my program :
+Demo Figure2.16 first... 
+my code ordre by reablity 
+Figure2.16 obejctprogram part
+FIgure2.11 passThree part
+and some mini function..
+
+http://stackoverflow.com/questions/29440934/confusion-on-generating-object-code-in-sic-assemblers-output
+
+http://php.net/manual/en/language.constants.predefined.php
+
+http://www-rohan.sdsu.edu/~stremler/2003_CS530/SicArchitecture.html
+
+https://en.wikipedia.org/wiki/SIC/XE
+
+http://php.net/manual/en/language.namespaces.definition.php

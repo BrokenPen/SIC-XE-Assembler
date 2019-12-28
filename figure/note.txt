@@ -1,0 +1,9 @@
+The Figure from teacher file r element missing and are not well formatted
+You should reference to the textbook, copy the content
+build a csv file by you own.
+
+
+The Figure2.1 from teacher file r element missing, do not contain Line value
+also the file are not well formatted.
+	such as at 38Line[Line 185] the whole line are right shift more one tab
+	
